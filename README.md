@@ -55,9 +55,6 @@
 ### Fake Job Detector (NLP)
 Detects fraudulent job postings using Natural Language Processing and Machine Learning.
 
-### Air Quality Prediction System
-Predicts air quality using machine learning algorithms and environmental datasets.
-
 ### Linux System Administration Lab
 Hands-on Linux administration, RHCSA practice, shell scripting, networking and system management.
 
