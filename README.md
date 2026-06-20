@@ -16,6 +16,10 @@
 
 ---
 
+## Projects
+
+1. Developed an automated Linux Server Health Monitoring solution using Bash and Python with cron-based scheduling, service monitoring, incident logging, and Gmail SMTP email alerting for proactive system administration.
+
 ## Technical Skills
 
 ### Operating Systems
